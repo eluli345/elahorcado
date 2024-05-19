@@ -1,18 +1,6 @@
-## Getting Started
+# juego de ahorcado in java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+tienes una cantidad de intentos, metes letras , y si adivinas todas para formar la palabra ganas, besto game for beginners in programming with the java language
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## TOOLS
+library scanner and variables(int,string,character) , array and other function in java 
